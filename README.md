@@ -39,10 +39,11 @@ In your internet browser as an End User osTicket URL:http:localhost/osTicket. Cl
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="962" alt="Screenshot 2025-03-27 at 12 30 12 AM" src="https://github.com/user-attachments/assets/9f57ead8-c4a3-468f-a6d7-b223c98c2779" />
+/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+As an Help Desk Agent, observe the tickets properties such as priority, department, SLA and Assigned To. After you observe the ticket you can set the tickets priorities as what is intented of it. Lastly if you refresh the Ticket you can see a track record of what happened.
 </p>
 <br />
 
