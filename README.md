@@ -48,9 +48,10 @@ As an Help Desk Agent, observe the tickets properties such as priority, departme
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="960" alt="Screenshot 2025-03-27 at 1 09 07 AM" src="https://github.com/user-attachments/assets/5bb8a851-2065-4446-a1e9-4d908723bd0c" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+As an help desk agent on the backend fixed the issue. In the text thread followed up with a reply that it is fixed so everyone that was connnected to the ticket got a email on the update of it.
 </p>
 <br />
