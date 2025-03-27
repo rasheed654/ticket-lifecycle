@@ -34,7 +34,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-In your internet browser as an End User osTicket URL:http:localhost/osTicket. Click on Open a New Ticket. Lastly fill in the form beloow to open a new ticket.
+In your internet browser as an End User osTicket URL:http:localhost/osTicket. Click on Open a New Ticket. Lastly fill in the form below to open a new ticket.
 </p>
 <br />
 
