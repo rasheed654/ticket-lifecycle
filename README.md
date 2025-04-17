@@ -46,7 +46,6 @@ As an Help Desk Agent, observe the tickets properties such as priority, departme
 <p>
 <img width="960" alt="Screenshot 2025-03-27 at 1 09 07 AM" src="https://github.com/user-attachments/assets/5bb8a851-2065-4446-a1e9-4d908723bd0c" />
 
-</p>
 <p>
 As an help desk agent on the backend fixed the issue. In the text thread followed up with a reply that it is fixed so everyone that was connnected to the ticket got a email on the update of it.
 </p>
@@ -54,7 +53,7 @@ As an help desk agent on the backend fixed the issue. In the text thread followe
 <p>
 <img width="954" alt="Screenshot 2025-03-27 at 1 18 06 AM" src="https://github.com/user-attachments/assets/8e1ae441-00a0-4cc6-afc1-5a66aff147d4" />
 
-</p>
+
 <p>
 In the Agent panel under tickets you can can resolve it by clicking on Ppen beside of Status. then hitting close.
 </p>
