@@ -36,7 +36,7 @@ In your internet browser as an End User osTicket URL:http:localhost/osTicket. Cl
 
 <p>
 <img width="962" alt="Screenshot 2025-03-27 at 12 30 12 AM" src="https://github.com/user-attachments/assets/9f57ead8-c4a3-468f-a6d7-b223c98c2779" />
-/>
+
 </p>
 <p>
 As an Help Desk Agent, observe the tickets properties such as priority, department, SLA and Assigned To. After you observe the ticket you can set the tickets priorities as what is intented of it. Lastly if you refresh the Ticket you can see a track record of what happened.
