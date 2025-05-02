@@ -37,7 +37,7 @@ entire mobile/online banking system is down
 <img width="843" alt="image" src="https://github.com/user-attachments/assets/855d848f-6fce-4ed1-8cdc-a05a29755ab9" />
 
 <h3>Step 2</h3>
-<p>As a Help Desk Agent (john), observe the ticket’s properties Priority,Department, SLA and Assigned To.
+
 
 </p>
 <img width="401" alt="image" src="https://github.com/user-attachments/assets/bf05c468-32de-432f-9638-220fbca56473" />
@@ -47,6 +47,7 @@ entire mobile/online banking system is down
 <img width="841" alt="Screenshot 2025-03-27 at 12 11 31 AM" src="https://github.com/user-attachments/assets/d1f0dd4d-1c4d-4b28-b32a-ce2b1f97fd14" />
 
 </p>
+<p>As a Help Desk Agent (john), observe the ticket’s properties Priority,Department, SLA and Assigned To.
 <p>
 In your internet browser as an End User osTicket URL:http:localhost/osTicket. Click on Open a New Ticket. Lastly fill in the form below to open a new ticket.
 </p>
