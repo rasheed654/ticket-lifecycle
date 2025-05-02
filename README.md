@@ -85,6 +85,10 @@ entire mobile/online banking system is down
 <p>Assigning it to john and working it to completion</p>
 <img width="944" alt="image" src="https://github.com/user-attachments/assets/ba3a0ec1-d9a7-468a-868c-a103bdeb2e36" />
 <p>Giving a small description in Post Reply</p>
+<img width="962" alt="image" src="https://github.com/user-attachments/assets/63b204b5-b227-4ae4-aea4-525a0a7a2bd0" />
+<img width="648" alt="Screenshot 2025-05-02 at 1 48 02 AM" src="https://github.com/user-attachments/assets/a552a356-2994-4f11-be31-3bf130248236" />
+<p>Closing out the Ticket.</p>
+
 
 
 
