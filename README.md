@@ -73,7 +73,7 @@ entire mobile/online banking system is down
 
 <h3>Fourth Lab</h3>
 <img width="843" alt="image" src="https://github.com/user-attachments/assets/6ccb0216-3f8c-4291-9b65-60f793ec4730" />
-
+<p>As end user john create a new ticket for the accounting department awith a issue summary</p>
 
 
 
