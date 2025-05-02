@@ -24,7 +24,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
-<h3>Intake</h3>
+<h3>First Lab</h3>
 <p>In this lab, I will be creating tickets as end users
 Observing all the ticket properties and responding to them as help desk professional.
 </p>
@@ -36,7 +36,7 @@ entire mobile/online banking system is down
 <p>Fill this out the information needed.</p>
 <img width="843" alt="image" src="https://github.com/user-attachments/assets/855d848f-6fce-4ed1-8cdc-a05a29755ab9" />
 
-<h3>Step 2</h3>
+<h3>Second Lab</h3>
 
 <img width="401" alt="image" src="https://github.com/user-attachments/assets/bf05c468-32de-432f-9638-220fbca56473" />
 <p>Login to osticket with john username and password</p>
@@ -47,7 +47,7 @@ entire mobile/online banking system is down
 <img width="964" alt="image" src="https://github.com/user-attachments/assets/c32ef2a9-662f-4303-9479-f9746ef48c99" />
 <p>As a Help Desk Agent (john), observe the ticket’s properties Priority,Department, SLA and Assigned To.</p>
 
-<h3>Step 3</h3>
+<h3>Third Lab</h3>
 <img width="649" alt="image" src="https://github.com/user-attachments/assets/876af8e6-79b3-40ae-87ae-e673fd9ea939" />
 <p>Set Properties to the ticket Sev-A (1 hour, 24/7) and fill out a description of the problem</p>
 <img width="649" alt="Screenshot 2025-05-02 at 12 17 58 AM" src="https://github.com/user-attachments/assets/d07a2251-8b74-4b99-9c5e-be0f2b8e4e7e" />
@@ -71,6 +71,9 @@ entire mobile/online banking system is down
 <p>Now that we finish it we can set the ticket to resolve</p>
 <img width="962" alt="image" src="https://github.com/user-attachments/assets/22a022e3-3713-41e7-9383-d4406f12179e" />
 <p>This is how it looks after its resolved.</p>
+
+<h3>Fourth Lab</h3>
+
 
 
 
