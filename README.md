@@ -38,8 +38,6 @@ entire mobile/online banking system is down
 
 <h3>Step 2</h3>
 
-
-</p>
 <img width="401" alt="image" src="https://github.com/user-attachments/assets/bf05c468-32de-432f-9638-220fbca56473" />
 <p>Login to osticket with john username and password</p>
 
@@ -47,34 +45,9 @@ entire mobile/online banking system is down
 <img width="841" alt="Screenshot 2025-03-27 at 12 11 31 AM" src="https://github.com/user-attachments/assets/d1f0dd4d-1c4d-4b28-b32a-ce2b1f97fd14" />
 <p>Fill out the information</p>
 <img width="964" alt="image" src="https://github.com/user-attachments/assets/c32ef2a9-662f-4303-9479-f9746ef48c99" />
+<p>As a Help Desk Agent (john), observe the ticket’s properties Priority,Department, SLA and Assigned To.</p>
 
-<p>As a Help Desk Agent (john), observe the ticket’s properties Priority,Department, SLA and Assigned To.
-<p>
-In your internet browser as an End User osTicket URL:http:localhost/osTicket. Click on Open a New Ticket. Lastly fill in the form below to open a new ticket.
-</p>
-<br />
+<h3>Step 3</h3>
+<img width="649" alt="image" src="https://github.com/user-attachments/assets/876af8e6-79b3-40ae-87ae-e673fd9ea939" />
+<p>Set Properties to the ticket Sev-A (1 hour, 24/7)</p>
 
-<p>
-<img width="962" alt="Screenshot 2025-03-27 at 12 30 12 AM" src="https://github.com/user-attachments/assets/9f57ead8-c4a3-468f-a6d7-b223c98c2779" />
-
-</p>
-<p>
-As an Help Desk Agent, observe the tickets properties such as priority, department, SLA and Assigned To. After you observe the ticket you can set the tickets priorities as what is intented of it. Lastly if you refresh the Ticket you can see a track record of what happened.
-</p>
-<br />
-
-<p>
-<img width="960" alt="Screenshot 2025-03-27 at 1 09 07 AM" src="https://github.com/user-attachments/assets/5bb8a851-2065-4446-a1e9-4d908723bd0c" />
-
-<p>
-As an help desk agent on the backend fixed the issue. In the text thread followed up with a reply that it is fixed so everyone that was connnected to the ticket got a email on the update of it.
-</p>
-<br />
-<p>
-<img width="954" alt="Screenshot 2025-03-27 at 1 18 06 AM" src="https://github.com/user-attachments/assets/8e1ae441-00a0-4cc6-afc1-5a66aff147d4" />
-
-
-<p>
-In the Agent panel under tickets you can can resolve it by clicking on Ppen beside of Status. then hitting close.
-</p>
-<br />
