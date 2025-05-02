@@ -25,8 +25,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 <h3>Intake</h3>
-<p>In this lab, we will be creating tickets as end users
-Observing all the ticket properties and responding to them as help desk professionals
+<p>In this lab, I will be creating tickets as end users
+Observing all the ticket properties and responding to them as help desk professional.
 </p>
 <img width="845" alt="Screenshot 2025-05-01 at 11 29 27 PM" src="https://github.com/user-attachments/assets/f2211516-060d-4d1b-8356-c1a14b148071" />
 <p>First As an end-user, create the following ticket
