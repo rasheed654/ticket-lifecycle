@@ -50,4 +50,5 @@ entire mobile/online banking system is down
 <h3>Step 3</h3>
 <img width="649" alt="image" src="https://github.com/user-attachments/assets/876af8e6-79b3-40ae-87ae-e673fd9ea939" />
 <p>Set Properties to the ticket Sev-A (1 hour, 24/7)</p>
-
+<img width="649" alt="Screenshot 2025-05-02 at 12 17 58 AM" src="https://github.com/user-attachments/assets/d07a2251-8b74-4b99-9c5e-be0f2b8e4e7e" />
+<p>Update Help Topic</p>
