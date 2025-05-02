@@ -70,6 +70,7 @@ entire mobile/online banking system is down
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/1776f474-1054-49ed-a05f-e9bccf95f4c8" />
 <p>Now that we finish it we can set the ticket to resolve</p>
 <img width="962" alt="image" src="https://github.com/user-attachments/assets/22a022e3-3713-41e7-9383-d4406f12179e" />
+<p>This is how it looks after its resolved.</p>
 
 
 
