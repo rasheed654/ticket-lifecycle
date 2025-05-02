@@ -67,6 +67,7 @@ entire mobile/online banking system is down
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/4da67e95-f336-46dc-b098-7b538a4ae608" />
 <p>On the back end fix the issue, now updating it on Post reply </p>
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/26278141-8e62-44fa-9a78-c0ef1062ba3c" />
-<img width="650" alt="image" src="https://github.com/user-attachments/assets/1776f474-1054-49ed-a05f-e9bccf95f4c8" />
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/1776f474-1054-49ed-a05f-e9bccf95f4c8" /><img width="962" alt="image" src="https://github.com/user-attachments/assets/22a022e3-3713-41e7-9383-d4406f12179e" />
+
 <p>Now that we finish it we can set the ticket to resolve</p>
 
