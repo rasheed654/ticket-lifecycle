@@ -88,6 +88,9 @@ entire mobile/online banking system is down
 <img width="962" alt="image" src="https://github.com/user-attachments/assets/63b204b5-b227-4ae4-aea4-525a0a7a2bd0" />
 <img width="648" alt="Screenshot 2025-05-02 at 1 48 02 AM" src="https://github.com/user-attachments/assets/a552a356-2994-4f11-be31-3bf130248236" />
 <p>Closing out the Ticket.</p>
+<img width="962" alt="image" src="https://github.com/user-attachments/assets/b5d82d84-bd95-4bf8-9b4c-8c75f8510663" />
+<p>This show the ticket has been resolved.</p>
+
 
 
 
