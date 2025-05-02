@@ -32,6 +32,18 @@ Observing all the ticket properties and responding to them as help desk professi
 <p>First As an end-user, create the following ticket
 entire mobile/online banking system is down
 </p>
+<img width="846" alt="Screenshot 2025-05-01 at 11 43 31 PM" src="https://github.com/user-attachments/assets/b34be849-ebba-44e8-b1e5-2c7d499d83e5" />
+<p>Fill this out the information needed.</p>
+<img width="843" alt="image" src="https://github.com/user-attachments/assets/855d848f-6fce-4ed1-8cdc-a05a29755ab9" />
+
+<h3>Step 2</h3>
+<p>As a Help Desk Agent (john), observe the ticket’s properties
+	Priority
+	Department
+	SLA
+	Assigned To
+
+</p>
 <p>
 <img width="841" alt="Screenshot 2025-03-27 at 12 11 31 AM" src="https://github.com/user-attachments/assets/d1f0dd4d-1c4d-4b28-b32a-ce2b1f97fd14" />
 
