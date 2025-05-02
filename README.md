@@ -37,11 +37,7 @@ entire mobile/online banking system is down
 <img width="843" alt="image" src="https://github.com/user-attachments/assets/855d848f-6fce-4ed1-8cdc-a05a29755ab9" />
 
 <h3>Step 2</h3>
-<p>As a Help Desk Agent (john), observe the ticket’s properties
-	Priority
-	Department
-	SLA
-	Assigned To
+<p>As a Help Desk Agent (john), observe the ticket’s properties Priority,Department, SLA and Assigned To.
 
 </p>
 <p>
