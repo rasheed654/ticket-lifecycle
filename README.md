@@ -59,3 +59,14 @@ entire mobile/online banking system is down
 <p>Assigning to a Team</p>
 <img width="646" alt="image" src="https://github.com/user-attachments/assets/c464bea0-f769-4589-bfe3-7689513740a5" />
 <p>Assigning to online banking team with a description</p>
+
+<img width="401" alt="image" src="https://github.com/user-attachments/assets/76d8a90b-f26d-4501-90fb-38c4c671bcb5" />
+<p>Log in as Jane to work the ticket to completion</p>
+<img width="934" alt="image" src="https://github.com/user-attachments/assets/9045c8bf-8a0b-4647-9cb7-5c9d323ae7b0" />
+<p>Filling out the response information on the Post Reply</p>
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/4da67e95-f336-46dc-b098-7b538a4ae608" />
+<p>On the back end fix the issue, now updating it on Post reply </p>
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/26278141-8e62-44fa-9a78-c0ef1062ba3c" />
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/1776f474-1054-49ed-a05f-e9bccf95f4c8" />
+<p>Now that we finish it we can set the ticket to resolve</p>
+
