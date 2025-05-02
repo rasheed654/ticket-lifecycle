@@ -24,7 +24,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution
 
 <h2>Lifecycle Stages</h2>
-
+<h3>Intake</h3>
+<p>In this lab, we will be creating tickets as end users
+Observing all the ticket properties and responding to them as help desk professionals
+</p>
+<img width="845" alt="Screenshot 2025-05-01 at 11 29 27 PM" src="https://github.com/user-attachments/assets/f2211516-060d-4d1b-8356-c1a14b148071" />
+<p>First As an end-user, create the following ticket
+entire mobile/online banking system is down
+</p>
 <p>
 <img width="841" alt="Screenshot 2025-03-27 at 12 11 31 AM" src="https://github.com/user-attachments/assets/d1f0dd4d-1c4d-4b28-b32a-ce2b1f97fd14" />
 
