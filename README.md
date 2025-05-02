@@ -52,3 +52,10 @@ entire mobile/online banking system is down
 <p>Set Properties to the ticket Sev-A (1 hour, 24/7) and fill out a description of the problem</p>
 <img width="649" alt="Screenshot 2025-05-02 at 12 17 58 AM" src="https://github.com/user-attachments/assets/d07a2251-8b74-4b99-9c5e-be0f2b8e4e7e" />
 <p>Update Help Topic and fill out a description of the problem</p>
+<img width="948" alt="image" src="https://github.com/user-attachments/assets/ed40185f-557e-4f94-b1e6-7f9bc4d943a2" />
+<p>Refreshing the ticket shows a track record of what happened</p>
+<img width="939" alt="image" src="https://github.com/user-attachments/assets/ab467a5f-17a9-4535-8253-939a3921ffc3" />
+<img width="649" alt="image" src="https://github.com/user-attachments/assets/1566fa01-f59a-4c02-98be-1db67fc11023" />
+<p>Assigning to a Team</p>
+<img width="646" alt="image" src="https://github.com/user-attachments/assets/c464bea0-f769-4589-bfe3-7689513740a5" />
+<p>Assigning to online banking team with a description</p>
