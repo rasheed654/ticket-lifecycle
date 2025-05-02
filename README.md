@@ -75,5 +75,14 @@ entire mobile/online banking system is down
 <img width="843" alt="image" src="https://github.com/user-attachments/assets/6ccb0216-3f8c-4291-9b65-60f793ec4730" />
 <p>As end user john create a new ticket for the accounting department with a issue summary</p>
 
+<img width="399" alt="image" src="https://github.com/user-attachments/assets/d7ef8748-7ff5-49fc-b9b8-1428a72bf705" />
+<p>As help desk john login to Osticket</p>
+<img width="966" alt="image" src="https://github.com/user-attachments/assets/bcc1dcd8-f6f2-4302-bb93-b01ef347e0b6" />
+<p>Talked to ken its only two people in the accounting department</p>
+<img width="647" alt="image" src="https://github.com/user-attachments/assets/2ec50fec-fba9-490e-abba-0f0da701a7cf" />
+<p>Updating SLA Plan to Sev-C</p>
+
+
+
 
 
