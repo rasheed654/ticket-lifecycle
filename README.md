@@ -81,6 +81,12 @@ entire mobile/online banking system is down
 <p>Talked to ken its only two people in the accounting department</p>
 <img width="647" alt="image" src="https://github.com/user-attachments/assets/2ec50fec-fba9-490e-abba-0f0da701a7cf" />
 <p>Updating SLA Plan to Sev-C</p>
+<img width="648" alt="image" src="https://github.com/user-attachments/assets/f042996f-a145-4208-b1c6-5c58565bfe11" />
+<p>Assigning it to john and working it to completion</p>
+<img width="944" alt="image" src="https://github.com/user-attachments/assets/ba3a0ec1-d9a7-468a-868c-a103bdeb2e36" />
+<p>Giving a small description in Post Reply</p>
+
+
 
 
 
